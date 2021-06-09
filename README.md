@@ -3,14 +3,6 @@
 A new Flutter project.
 
 
-## Output
-
-#### Drawer Home Page
-<img  alt="HTML5" width="300px" src="./output/Capture.PNG" />
-
-
-
-
 
 ## Getting Started
 
